@@ -1,0 +1,72 @@
+/* font-family: 'Cinzel Decorative', cursive;
+font-family: 'Homemade Apple', cursive;
+
+COLORS
+WISTERIA #8e44ad
+AMETHYST #9b59b6
+BLACK AND WHITE 
+#202020
+#F0F0F0
+*/
+
+body {
+  text-align: center;
+  background-color: #202020;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #8e44ad;
+  font-family: 'Cinzel Decorative', cursive;
+  text-shadow: 3px 0 #F0F0F0;
+
+}
+h2 {
+  font-size: 2rem;
+  color: #F0F0F0;
+  font-family: 'Cinzel Decorative', cursive;
+  
+}
+
+.img {
+  width: 50%;
+  padding: 20px 0;
+  display: inline-block;
+}
+
+.place-name {
+  text-align: center;
+  display: inline-block;
+}
+
+.wonders {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  color: #F0F0F0;
+  font-family: 'Homemade Apple', cursive;
+}
+
+/*.btn {
+	background:linear-gradient(to bottom, #9b59b6 5%, #8e44ad 100%);
+	background-color:#9b59b6;
+	border-radius:28px;
+	border:1px solid #8e44ad;
+	
+	color:#F0F0F0; 
+  cursor: url(images/dragon.png), auto;
+	font-family: 'Cinzel Decorative';
+	font-size: 1rem;
+	padding: 15px 76px;
+	text-decoration:none;
+	text-shadow:0px 1px 4px #9b59b6;
+} */
+
+
+
+
+
+
