@@ -68,7 +68,7 @@ background-image: url('images/Red.jpg');
 	border:1px solid #8e44ad;
 	display:inline-block;
 	color:#F0F0F0; 
-  cursor: url(images/dragon.png), auto;
+	cursor:auto;
 	font-family: 'Cinzel Decorative';
 	font-size: 1rem;
 	padding: 15px 76px;
@@ -101,4 +101,7 @@ background-image: url('images/Red.jpg');
   text-align: center;
   margin: 10px;
   background-color: #202020;
+}
+.roar.btn:hover {
+box-shadow: 5px 5px 10px 2px
 }
