@@ -50,6 +50,13 @@ footer {
   font-family: 'Homemade Apple', cursive;
 }
 
+#dragon {
+  cursor: url(images/dragon.cur), auto;
+}
+
+#crystal-ball {
+  cursor: url(images/crystal-ball.cur), auto;
+}
 /*.btn {
 	background:linear-gradient(to bottom, #9b59b6 5%, #8e44ad 100%);
 	background-color:#9b59b6;
