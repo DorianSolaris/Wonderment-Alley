@@ -30,6 +30,7 @@ BLACK AND WHITE
 	border-radius:28px;
 	border:1px solid #8e44ad;
 	display:inline-block;
+  margin: 1rem auto;
 	cursor:pointer;
 	color:#F0F0F0;
 	font-family: 'Cinzel Decorative';
@@ -39,16 +40,19 @@ BLACK AND WHITE
 	text-shadow:0px 1px 4px #9b59b6;
 }
 
+
 #input {
-  text-align: center;
   margin-bottom: 50px;
   padding: 10px;
+  width: 100%;
   background-color: #202020;
   border: #9b59b6;
   border-radius: 5px;
   color: #f0f0f0;
-  box-shadow:0 0 15px 4px #8e44ad;
+  box-shadow: 0 0 15px 4px #8e44ad;
+  text-align: center;
   font-family: 'Homemade Apple', cursive;
+  
 }
 
 
@@ -84,4 +88,8 @@ footer {
   font-family: 'Homemade Apple';
   font-style: cursive;
   font-size: 1rem;
+}
+span {
+  display: flexbox;
+  overflow: visible;
 }
