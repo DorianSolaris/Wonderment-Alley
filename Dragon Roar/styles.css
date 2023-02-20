@@ -15,7 +15,7 @@ body {
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 3rem;
   color: #8e44ad;
   font-family: 'Cinzel Decorative', cursive;
   text-shadow: 3px 0 #F0F0F0;
@@ -58,13 +58,13 @@ background-image: url('images/Red.jpg');
   background-image: url('images/Black.jpg');
 }
 .set {
-  margin: 10% auto;
+  margin: 2rem auto;
 }
 
 .btn {
 	background:linear-gradient(to bottom, #9b59b6 5%, #8e44ad 100%);
 	background-color:#9b59b6;
-	border-radius:28px;
+	border-radius:25px;
 	border:1px solid #8e44ad;
 	display:inline-block;
 	color:#F0F0F0; 
@@ -96,8 +96,8 @@ background-image: url('images/Red.jpg');
   text-shadow: 3px 0 #9b59b6;
   border-radius: 100%;
   display: inline-block;
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
   text-align: center;
   margin: 10px;
   background-color: #202020;
