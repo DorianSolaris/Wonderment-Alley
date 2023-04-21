@@ -1,4 +1,7 @@
-# Wonderment-Alley magician business page
-JAVA SCRIP (learning project)
-adding Eventlisteners for dragon roars concert
-drawing random number to get totally accurate answer for questions that are troubling you
+# Wonderment-Alley magician business 
+ * [General info](#general-info)
+ 
+## General info:
+		JAVA SCRIP (learning project)
+		adding Eventlisteners to buttons
+		drawing random number to get a random result
