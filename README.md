@@ -1,7 +1,11 @@
 # Wonderment-Alley magician business 
- * [General info](#general-info)
+ https://eliotsolaris.github.io/Wonderment-Alley/
+
  
 ## General info:
-		JAVA SCRIP (learning project)
-		adding Eventlisteners to buttons
-		drawing random number to get a random result
+	JS (training project)
+
+### With:
+	HTML
+	CSS
+	JS
